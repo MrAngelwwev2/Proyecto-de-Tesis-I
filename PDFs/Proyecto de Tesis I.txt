@@ -1,0 +1,7 @@
+Detectar ingredientes
+Identificarlos
+Mostrar recetas disponibles
+
+
+Elegir RECOMENDACION DE SISTEMA o INFRAESTRUCTURA
+Marco Teorico - Introduccion - Objetivos - Justificacion - Conceptos Previos
